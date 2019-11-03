@@ -1,0 +1,5 @@
+1366 x 768
+Brown is: 72401f
+Light Brown is: 724c1f
+Sofa Blue is: 4223e0
+Orange beanbag: f0761d
